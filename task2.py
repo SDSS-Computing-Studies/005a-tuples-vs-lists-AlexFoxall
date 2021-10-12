@@ -23,4 +23,10 @@ Enter a word: virus
 
 ['apple', 'worm', 'dollar', 'shingle', 'virus']
 """
-x = 
+t1 = input("enter a word")
+t2 = input("enter a word")
+t3 = input("enter a word")
+t4 = input("enter a word")
+t5 = input("enter a word")
+x = [t1, t2, t3, t4, t5]
+print(x)
