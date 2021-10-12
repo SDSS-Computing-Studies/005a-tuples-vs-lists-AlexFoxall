@@ -23,10 +23,10 @@ Enter a word: virus
 
 ['apple', 'worm', 'dollar', 'shingle', 'virus']
 """
-t1 = input("enter a word")
-t2 = input("enter a word")
-t3 = input("enter a word")
-t4 = input("enter a word")
-t5 = input("enter a word")
+t1 = input("Enter a word").strip()
+t2 = input("Enter a word").strip()
+t3 = input("Enter a word").strip()
+t4 = input("Enter a word").strip()
+t5 = input("Enter a word").strip()
 x = [t1, t2, t3, t4, t5]
 print(x)
